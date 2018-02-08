@@ -1,6 +1,2 @@
-diyici,hhhhhhhhhh
-
-dierci,xxxxxxxxxx
-
-
-disanci,mmmmmmmmm
+Git is a distributed version control system.
+Git is free software distributed under the GPL.

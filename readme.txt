@@ -25,7 +25,8 @@ GitÍ¬Ñù¸æËßÎÒÃÇ£¬ÓÃÃüÁîgit reset HEAD file¿ÉÒÔ°ÑÔÝ´æÇøµÄÐÞ¸Ä³·Ïúµô£¨unstage£©£¬Ö
 
 git resetÃüÁî¼È¿ÉÒÔ»ØÍË°æ±¾£¬Ò²¿ÉÒÔ°ÑÔÝ´æÇøµÄÐÞ¸Ä»ØÍËµ½¹¤×÷Çø¡£µ±ÎÒÃÇÓÃHEADÊ±£¬±íÊ¾×îÐÂµÄ°æ±¾¡£
 
-
+rm text.txt ---->Ö»ÊÇÎÄ¼þ¹ÜÀíÆ÷ÀïÃæ±»É¾µô£¬µ«ÊÇ°æ±¾¿âÀïÃæ»¹ÓÐ£¬¿ÉÒÔÊ¹ÓÃ git checkout -- text.txt ¶ÔÎÄ¼þ½øÐÐ»Ö¸´£»
+git rm text.txt ---->½«ÎÄ¼þ´Ó°æ±¾¿âÀïÃæÉ¾µô£¬Ìá½»¹ý¾ÍÎÞ·¨»Ö¸´£»
 ÄãÓÐÁ½¸öÑ¡Ôñ£¬Ò»ÊÇÈ·ÊµÒª´Ó°æ±¾¿âÖÐÉ¾³ý¸ÃÎÄ¼þ£¬ÄÇ¾ÍÓÃÃüÁîgit rmÉ¾µô£¬²¢ÇÒgit commit £¬ÎÄ¼þ¾Í´Ó°æ±¾¿âÖÐ±»É¾³ýÁË¡£
 
 ÁíÒ»ÖÖÇé¿öÊÇÉ¾´íÁË£¬ÒòÎª°æ±¾¿âÀï»¹ÓÐÄØ£¬ËùÒÔ¿ÉÒÔºÜÇáËÉµØ°ÑÎóÉ¾µÄÎÄ¼þ»Ö¸´µ½×îÐÂ°æ±¾£º

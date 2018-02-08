@@ -9,3 +9,5 @@ Git tracks changes of files.
  git commit-m "readmes" --->将暂存区的文件提交
  cat readmes.txt ----->查看文件的内容；
 git status ------>查看文件的状态（是在暂存区还是未在暂存区或者提交了）
+
+git checkout -- readme.txt ----->放弃工作区的内容修改；

@@ -26,3 +26,11 @@ GitÍ¬Ñù¸æËßÎÒÃÇ£¬ÓÃÃüÁîgit reset HEAD file¿ÉÒÔ°ÑÔÝ´æÇøµÄÐÞ¸Ä³·Ïúµô£¨unstage£©£¬Ö
 git resetÃüÁî¼È¿ÉÒÔ»ØÍË°æ±¾£¬Ò²¿ÉÒÔ°ÑÔÝ´æÇøµÄÐÞ¸Ä»ØÍËµ½¹¤×÷Çø¡£µ±ÎÒÃÇÓÃHEADÊ±£¬±íÊ¾×îÐÂµÄ°æ±¾¡£
 
 
+ÄãÓÐÁ½¸öÑ¡Ôñ£¬Ò»ÊÇÈ·ÊµÒª´Ó°æ±¾¿âÖÐÉ¾³ý¸ÃÎÄ¼þ£¬ÄÇ¾ÍÓÃÃüÁîgit rmÉ¾µô£¬²¢ÇÒgit commit £¬ÎÄ¼þ¾Í´Ó°æ±¾¿âÖÐ±»É¾³ýÁË¡£
+
+ÁíÒ»ÖÖÇé¿öÊÇÉ¾´íÁË£¬ÒòÎª°æ±¾¿âÀï»¹ÓÐÄØ£¬ËùÒÔ¿ÉÒÔºÜÇáËÉµØ°ÑÎóÉ¾µÄÎÄ¼þ»Ö¸´µ½×îÐÂ°æ±¾£º
+
+$ git checkout -- test.txt£º
+
+
+ÃüÁîgit rmÓÃÓÚÉ¾³ýÒ»¸öÎÄ¼þ¡£Èç¹ûÒ»¸öÎÄ¼þÒÑ¾­±»Ìá½»µ½°æ±¾¿â£¬ÄÇÃ´ÄãÓÀÔ¶²»ÓÃµ£ÐÄÎóÉ¾£¬µ«ÊÇÒªÐ¡ÐÄ£¬ÄãÖ»ÄÜ»Ö¸´ÎÄ¼þµ½×îÐÂ°æ±¾£¬Äã»á¶ªÊ§×î½üÒ»´ÎÌá½»ºóÄãÐÞ¸ÄµÄÄÚÈÝ¡£
